@@ -1,0 +1,67 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "title": "Tênis Nike Quest 2 Masculino",
+            "price": 249.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-nike-quest-2-masculino/26/HZM-1743-026/HZM-1743-026_zoom2.jpg?ts=1562156633&ims=326x"
+        },
+        {
+            "id": 2,
+            "title": "Tênis Under Armour Charged Carbon Masculino",
+            "price": 189.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-under-armour-charged-carbon-masculino/93/B78-4580-793/B78-4580-793_zoom2.jpg?ts=1562855980&ims=326x"
+        },
+        {
+            "id": 3,
+            "title": "Tênis Adidas Sensebounce Street Masculino",
+            "price": 199.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-adidas-sensebounce-street-masculino/42/COL-6968-742/COL-6968-742_zoom2.jpg?ts=1584624351&ims=326x"
+        },
+        {
+            "id": 4,
+            "title": "Tênis Asics Gel-Equation 10 Feminino",
+            "price": 239.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-asics-gel-equation-10-feminino/31/D18-5543-931/D18-5543-931_zoom1.jpg?ts=1586766362&ims=326x"
+        },
+        {
+            "id": 5,
+            "title": "Tênis Skechers Go Run Fast Quick Step Feminino",
+            "price": 299.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-skechers-go-run-fast-quick-step-feminino/08/EUZ-2113-008/EUZ-2113-008_zoom1.jpg?ts=1598518087&ims=326x"
+        },
+        {
+            "id": 6,
+            "title": "Tênis Adidas Response Super Boost Feminino",
+            "price": 499.99,
+            "image": "https://static.netshoes.com.br/produtos/tenis-adidas-response-super-boost-feminino/08/NQQ-4281-108/NQQ-4281-108_zoom1.jpg?ts=1595431442&ims=326x"
+        }
+    ],
+
+    "stock": [
+        {
+            "product_id": 1,
+            "amount": 6
+        },
+        {
+            "product_id": 2,
+            "amount": 3
+        },
+        {
+            "product_id": 3,
+            "amount": 8
+        },
+        {
+            "product_id": 4,
+            "amount": 1
+        },
+        {
+            "product_id": 5,
+            "amount": 4
+        },
+        {
+            "product_id": 6,
+            "amount": 2
+        }
+    ]
+}
